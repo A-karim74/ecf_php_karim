@@ -1,0 +1,35 @@
+h1 {
+  width: 45%;
+  height: 5%;
+  margin: 0 auto;
+}
+
+.trouver-eleve {
+  /* background: orangered; */
+  width: 25%;
+  height: 5%;
+  margin: 0 auto;
+  text-align: center;
+}
+#index-table {
+  border: 1px solid black;
+  width: 80vw;
+  height: 80vh;
+  margin: 0 auto;
+}
+#index-th,
+#index-td {
+  border: solid 1px black;
+  height: 10%;
+  width: 20%;
+  /* background: blue; */
+}
+.detail-eleve-container {
+  /* background-color: purple; */
+  width: 40%;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid black;
+  margin-top: 20px;
+  text-align: center;
+}
